@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+.env.*.local
+!.env.example
+.supabase/
+coverage/
+playwright-report/
+test-results/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
