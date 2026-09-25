@@ -1,0 +1,3 @@
+export function App() {
+  return <main className="min-h-screen px-5 py-12 sm:px-8"><section className="mx-auto max-w-5xl"><p className="mb-3 text-sm font-semibold uppercase tracking-[0.2em] text-emerald-700">Application foundation</p><h1 className="text-4xl font-bold tracking-tight sm:text-5xl">ShopEazy</h1><p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">A clean foundation for the managed retail platform. Customer and staff experiences will be added through feature modules.</p></section></main>
+}
