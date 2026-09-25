@@ -1,0 +1,1 @@
+export const defaultBranding = { name: 'ShopEazy', shortName: 'ShopEazy', tagline: 'Managed retail made simple.' } as const
